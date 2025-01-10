@@ -1,0 +1,11 @@
+D:\Kompetent\src\SharedKernel\Kompetent.SharedKernel\bin\Debug\net9.0\Kompetent.SharedKernel.deps.json
+D:\Kompetent\src\SharedKernel\Kompetent.SharedKernel\bin\Debug\net9.0\Kompetent.SharedKernel.dll
+D:\Kompetent\src\SharedKernel\Kompetent.SharedKernel\bin\Debug\net9.0\Kompetent.SharedKernel.pdb
+D:\Kompetent\src\SharedKernel\Kompetent.SharedKernel\obj\Debug\net9.0\Kompetent.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kompetent\src\SharedKernel\Kompetent.SharedKernel\obj\Debug\net9.0\Kompetent.SharedKernel.AssemblyInfoInputs.cache
+D:\Kompetent\src\SharedKernel\Kompetent.SharedKernel\obj\Debug\net9.0\Kompetent.SharedKernel.AssemblyInfo.cs
+D:\Kompetent\src\SharedKernel\Kompetent.SharedKernel\obj\Debug\net9.0\Kompetent.SharedKernel.csproj.CoreCompileInputs.cache
+D:\Kompetent\src\SharedKernel\Kompetent.SharedKernel\obj\Debug\net9.0\Kompetent.SharedKernel.dll
+D:\Kompetent\src\SharedKernel\Kompetent.SharedKernel\obj\Debug\net9.0\refint\Kompetent.SharedKernel.dll
+D:\Kompetent\src\SharedKernel\Kompetent.SharedKernel\obj\Debug\net9.0\Kompetent.SharedKernel.pdb
+D:\Kompetent\src\SharedKernel\Kompetent.SharedKernel\obj\Debug\net9.0\ref\Kompetent.SharedKernel.dll

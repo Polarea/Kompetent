@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Kompetent.SharedKernel/1.0.0": {
+        "runtime": {
+          "Kompetent.SharedKernel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kompetent.SharedKernel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

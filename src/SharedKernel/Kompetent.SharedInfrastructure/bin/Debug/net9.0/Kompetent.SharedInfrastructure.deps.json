@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Kompetent.SharedInfrastructure/1.0.0": {
+        "dependencies": {
+          "Kompetent.SharedKernel": "1.0.0"
+        },
+        "runtime": {
+          "Kompetent.SharedInfrastructure.dll": {}
+        }
+      },
+      "Kompetent.SharedKernel/1.0.0": {
+        "runtime": {
+          "Kompetent.SharedKernel.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kompetent.SharedInfrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kompetent.SharedKernel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

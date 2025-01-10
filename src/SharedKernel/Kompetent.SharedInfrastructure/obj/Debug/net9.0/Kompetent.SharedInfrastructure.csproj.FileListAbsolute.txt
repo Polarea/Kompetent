@@ -1,0 +1,15 @@
+D:\Kompetent\src\SharedKernel\Kompetent.SharedInfrastructure\bin\Debug\net9.0\Kompetent.SharedInfrastructure.deps.json
+D:\Kompetent\src\SharedKernel\Kompetent.SharedInfrastructure\bin\Debug\net9.0\Kompetent.SharedInfrastructure.dll
+D:\Kompetent\src\SharedKernel\Kompetent.SharedInfrastructure\bin\Debug\net9.0\Kompetent.SharedInfrastructure.pdb
+D:\Kompetent\src\SharedKernel\Kompetent.SharedInfrastructure\bin\Debug\net9.0\Kompetent.SharedKernel.dll
+D:\Kompetent\src\SharedKernel\Kompetent.SharedInfrastructure\bin\Debug\net9.0\Kompetent.SharedKernel.pdb
+D:\Kompetent\src\SharedKernel\Kompetent.SharedInfrastructure\obj\Debug\net9.0\Kompetent.SharedInfrastructure.csproj.AssemblyReference.cache
+D:\Kompetent\src\SharedKernel\Kompetent.SharedInfrastructure\obj\Debug\net9.0\Kompetent.SharedInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kompetent\src\SharedKernel\Kompetent.SharedInfrastructure\obj\Debug\net9.0\Kompetent.SharedInfrastructure.AssemblyInfoInputs.cache
+D:\Kompetent\src\SharedKernel\Kompetent.SharedInfrastructure\obj\Debug\net9.0\Kompetent.SharedInfrastructure.AssemblyInfo.cs
+D:\Kompetent\src\SharedKernel\Kompetent.SharedInfrastructure\obj\Debug\net9.0\Kompetent.SharedInfrastructure.csproj.CoreCompileInputs.cache
+D:\Kompetent\src\SharedKernel\Kompetent.SharedInfrastructure\obj\Debug\net9.0\Kompeten.BE2FC64B.Up2Date
+D:\Kompetent\src\SharedKernel\Kompetent.SharedInfrastructure\obj\Debug\net9.0\Kompetent.SharedInfrastructure.dll
+D:\Kompetent\src\SharedKernel\Kompetent.SharedInfrastructure\obj\Debug\net9.0\refint\Kompetent.SharedInfrastructure.dll
+D:\Kompetent\src\SharedKernel\Kompetent.SharedInfrastructure\obj\Debug\net9.0\Kompetent.SharedInfrastructure.pdb
+D:\Kompetent\src\SharedKernel\Kompetent.SharedInfrastructure\obj\Debug\net9.0\ref\Kompetent.SharedInfrastructure.dll
